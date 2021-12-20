@@ -4,7 +4,7 @@
 ## INTEDED TO HELP THOSE WHO SAVE OTHERS
 <br/>
 
-With the increasing number of patients all around the globe, hospital management is finding it difficult to manage data in a lump sum. They are dealing with thounsands of patients everyday, and hundreds of doctors and helpers are there with them. This software is intended to help such hospitals and make them assured from the side of their data.
+With the increasing number of patients all around the globe, hospital management is finding it difficult to manage data in a lump sum. They are dealing with thousands of patients everyday, and hundreds of doctors and helpers are there with them. This software is intended to help such hospitals and make them assured from the side of their data.
 
 </br>
 
