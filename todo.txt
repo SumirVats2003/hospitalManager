@@ -1,0 +1,8 @@
+1. Write driver program for the system  --->  Done
+2. Machinery Section
+3. Medicine Section
+4. Successful/Unsuccessful cure records
+5. Surgery records for doctors
+6. Patient reports
+7. Records for HODs of different departments
+8. Use of default.dat to write number of entries in one class
